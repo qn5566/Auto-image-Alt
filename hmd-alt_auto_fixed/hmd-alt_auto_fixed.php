@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: HMD - Auto Image Alt Attribute
-Plugin URI: https://himydream.me/
+Plugin URI: https://github.com/qn5566/Auto-image-Alt/
 Description: 自動加入alt到所有圖片裡面超爽.
 Version: 1.1
 Text Domain: hmd-alt_auto_fixed
